@@ -7,8 +7,8 @@ def main() -> None:
     terfogat = a*b*c
     felszin = 2*(a*b+a*c+b*c)
 
-    print("A téglalap térfogat(V):", terfogat ("m3")
-    print("A téglalap felszíne(A):", felszin ("m2")
+    print("A téglalap térfogat(V):", terfogat ("m3"))
+    print("A téglalap felszíne(A):", felszin ("m2"))
 
 
 if __name__ == "__main__":
